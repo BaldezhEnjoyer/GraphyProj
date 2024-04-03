@@ -1,0 +1,7 @@
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\bin\Debug\GraphsTeory.exe.config
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\bin\Debug\GraphsTeory.exe
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\bin\Debug\GraphsTeory.pdb
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\obj\Debug\GraphsTeory.csproj.AssemblyReference.cache
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\obj\Debug\GraphsTeory.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\obj\Debug\GraphsTeory.exe
+E:\Visual Studio\Projects\GraphsTeory\GraphsTeory\obj\Debug\GraphsTeory.pdb
